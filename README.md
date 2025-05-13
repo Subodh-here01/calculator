@@ -1,6 +1,6 @@
 # **Calculator Web Application**
 
-A simple, responsive calculator built with HTML, CSS, and JavaScript, featuring the ability to handle keyboard input, show calculation history, and display the results in a beautiful, user-friendly interface.
+A simple, responsive calculator built with HTML, CSS, and JavaScript, featuring the ability to handle keyboard input, and display the results in a beautiful, user-friendly interface.
 
 ---
 
