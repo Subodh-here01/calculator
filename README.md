@@ -27,12 +27,12 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript, featuring 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/Subodh-here01/calculator-app.git
+    git clone https://github.com/Subodh-here01/calculator.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd calculator-app
+    cd calculator
     ```
 
 3. Open the `index.html` file in your browser to run the calculator.
