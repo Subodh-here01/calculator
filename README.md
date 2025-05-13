@@ -8,7 +8,6 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript, featuring 
 
 - **Basic arithmetic operations**: Addition, subtraction, multiplication, division.
 - **Keyboard support**: Type calculations directly using your keyboard.
-- **History tracking**: Displays the last 5 calculations in the top-right corner.
 - **Responsive design**: Optimized for mobile and desktop devices, ensuring the calculator scales proportionally.
 - **Error handling**: Displays an error message when an invalid operation is attempted (e.g., division by zero).
 - **Smooth UI**: Stylish dark theme with hover and click animations.
@@ -19,7 +18,7 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript, featuring 
 
 - **HTML**: For structure and layout of the calculator.
 - **CSS**: For styling, responsive design, and animations.
-- **JavaScript**: For dynamic functionality, calculations, and history tracking.
+- **JavaScript**: For dynamic functionality and calculations.
 
 ---
 
