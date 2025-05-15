@@ -13,11 +13,12 @@ body {
     background-color: #1e1e1e;
     border-radius: 20px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
-    width: 250px;
-    padding : 1rem;
+    width: 350px;
+    padding: 1rem;
     padding-bottom: 1rem;
     overflow: hidden;
 }
+
 #calculator-heading {
     position: absolute;
     top: 1rem;
@@ -33,6 +34,7 @@ body {
     padding: 1rem;
     font-size: 1.8rem;
     text-align: right;
+    height: 5.5rem;
     border: none;
     border-radius: 10px;
     margin-bottom: 1rem;
@@ -80,4 +82,3 @@ button:active {
 .operator-btn:active {
     background-color: #8e85ff;
 }
-
